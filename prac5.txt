@@ -1,2 +1,3 @@
 create text 5
 modify text 5
+change text 5
